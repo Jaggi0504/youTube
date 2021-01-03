@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/youTube/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/youTube/static/js/main.28596e0e.chunk.js",
+    "main.js.map": "/youTube/static/js/main.28596e0e.chunk.js.map",
+    "runtime-main.js": "/youTube/static/js/runtime-main.9e17254b.js",
+    "runtime-main.js.map": "/youTube/static/js/runtime-main.9e17254b.js.map",
+    "static/js/2.a99f94ab.chunk.js": "/youTube/static/js/2.a99f94ab.chunk.js",
+    "static/js/2.a99f94ab.chunk.js.map": "/youTube/static/js/2.a99f94ab.chunk.js.map",
+    "static/js/3.cd68177e.chunk.js": "/youTube/static/js/3.cd68177e.chunk.js",
+    "static/js/3.cd68177e.chunk.js.map": "/youTube/static/js/3.cd68177e.chunk.js.map",
+    "index.html": "/youTube/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/youTube/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a99f94ab.chunk.js.LICENSE.txt": "/youTube/static/js/2.a99f94ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e17254b.js",
+    "static/js/2.a99f94ab.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.28596e0e.chunk.js"
+  ]
+}
